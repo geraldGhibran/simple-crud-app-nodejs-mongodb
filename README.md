@@ -15,6 +15,8 @@ Simple CRUD Application USing Nodejs &amp; MongoDB
 
 Start app by typing "nodemon" in terminal of this app directory and don't forget to start your mongoDB server..
 
+Access the app using browser by typing http://localhost:3000/employee
+
 Done!!
 
 
